@@ -1,0 +1,26 @@
+{
+  "name": "ruta200",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alecvipa/ruta200.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alecvipa/ruta200/issues"
+  },
+  "homepage": "https://github.com/alecvipa/ruta200#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.1",
+    "express-handlebars": "^6.0.6",
+    "mdb-ui-kit": "^5.0.0",
+    "nodemailer": "^6.8.0"
+  }
+}
