@@ -20,9 +20,11 @@
     cursor: pointer;
 }
 .navBar{
-    background-color: black;
+   
     color: white;
 }
+
+
 .btnContacto{
     display: block !important;
     margin-right: auto  !important;
@@ -41,6 +43,7 @@
 .greenCard{
     margin-top: -5%;
     padding: 2%;
+    background-color: #496181  !important ;
 }
 .nosotrosSomos{
     margin-top: -3%;
