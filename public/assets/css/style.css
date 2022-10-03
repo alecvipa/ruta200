@@ -5,7 +5,7 @@
 }
 .footer{
     padding-top: 3%;
-    background-color: black;
+    background-color: #172536;
     color: white;
 
 }
@@ -15,6 +15,12 @@
     margin-left: auto;
     margin-right: auto;
     
+}
+.mapGoogle{
+    width: 100%;
+}
+.dondeEncontrarnos{
+    margin-bottom: 2%;
 }
 .pointer {
     cursor: pointer;
@@ -54,22 +60,13 @@
 .nosotrosSomos{
     margin-top: -3%;
 }
-.bannerSpace{
-    height: 16rem;
-    background-image: url("/assets/images/bannerSpace.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    margin-bottom: 3%;
-    margin-top: 5%;
-}
+
 .privacidadBanner{
     height: 36rem;
-    background-image: url("/assets/images/mantenteBanner.jpg");
+    background-image: url("/assets/images/bannerPrivacidad.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    margin-top: 5%;
 
 }
 .form-check-input{
@@ -165,10 +162,24 @@
     padding-top: 15%;
     padding-bottom: 1%;
 }
+.logoRutaJpg{
+    width: 20%;
+    margin-bottom: 3%;
+}
 .ventajasDiv{
     background-color:  #def4e3  !important;
     padding-top: 3%;
     padding-bottom: 1%;
+}
+.imagesRuta{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.carouselRutaDos{
+    display: block;
+    margin-left: auto;
+    margin-left: auto;
+    margin-top: 7%;
 }
 @media (min-width: 992px) {
     .logoFluid{
@@ -262,7 +273,7 @@
     }
     .bannerDivInicio{
         height: 27rem;
-        background-position: 49% 140%;
+        background-position: 54% 140%;
     }
     .divCatchUp{
         display: none;
