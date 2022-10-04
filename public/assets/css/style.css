@@ -59,6 +59,10 @@
 }
 .nosotrosSomos{
     margin-top: -3%;
+    
+}
+#nosotros{
+    margin-bottom: 5%;
 }
 
 .privacidadBanner{
@@ -181,6 +185,9 @@
     margin-left: auto;
     margin-top: 7%;
 }
+.misionVision{
+    margin-top: 6%;
+}
 @media (min-width: 992px) {
     .logoFluid{
         margin-top: 3%;
@@ -208,6 +215,9 @@
 }
 
 @media(max-width:991px){
+    .btnIn{
+        margin-bottom: 7%;
+    }
     .antesDeContactoDiv{
         margin-bottom: -10% !important;
     }
