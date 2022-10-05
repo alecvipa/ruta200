@@ -126,6 +126,15 @@
   margin-left: auto;
   margin-right: auto;
 }
+.btnIn{
+    background-color: #b80605 !important;
+    color: white !important;
+}
+.bgRedRuta{
+    background-color: #b80605 !important;
+    color: white !important;
+
+}
 .quienesSomosDiv{
     background-color: grey;
     margin-top: -10%;
